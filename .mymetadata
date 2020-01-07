@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="qxfl"
+  id="myeclipse.1348804646328"
+  context-root="/qxfl"
+  j2ee-spec="5.0"
+  archive="qxfl.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
